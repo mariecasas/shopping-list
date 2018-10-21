@@ -1,5 +1,5 @@
 # shopping-list
-Shopping List
+## Shopping List
 
 This is a shopping list application using Vanilla JS that lets you:
 - add items to your shopping list
